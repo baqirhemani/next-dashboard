@@ -1,0 +1,31 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fapp%2Fui%2Fhome.module.css&modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Flink.js&server=false!":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fapp%2Fui%2Fhome.module.css&modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Flink.js&server=false! ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./app/ui/home.module.css */ \"(app-pages-browser)/./app/ui/home.module.css\", 23));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/link.js */ \"(app-pages-browser)/./node_modules/next/dist/client/link.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZVc2VycyUyRm11aGFtbWFkYmFxaXIlMkZEb2N1bWVudHMlMkZOZXh0SlMlMjBQcm9qZWN0cyUyRm5leHRqcy1kYXNoYm9hcmQlMkZhcHAlMkZ1aSUyRmhvbWUubW9kdWxlLmNzcyZtb2R1bGVzPSUyRlVzZXJzJTJGbXVoYW1tYWRiYXFpciUyRkRvY3VtZW50cyUyRk5leHRKUyUyMFByb2plY3RzJTJGbmV4dGpzLWRhc2hib2FyZCUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGY2xpZW50JTJGbGluay5qcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLGdMQUEySDtBQUMzSCIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzQ3OGUiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvbXVoYW1tYWRiYXFpci9Eb2N1bWVudHMvTmV4dEpTIFByb2plY3RzL25leHRqcy1kYXNoYm9hcmQvYXBwL3VpL2hvbWUubW9kdWxlLmNzc1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL211aGFtbWFkYmFxaXIvRG9jdW1lbnRzL05leHRKUyBQcm9qZWN0cy9uZXh0anMtZGFzaGJvYXJkL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY2xpZW50L2xpbmsuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fapp%2Fui%2Fhome.module.css&modules=%2FUsers%2Fmuhammadbaqir%2FDocuments%2FNextJS%20Projects%2Fnextjs-dashboard%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Flink.js&server=false!\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/./app/ui/home.module.css":
+/*!********************************!*\
+  !*** ./app/ui/home.module.css ***!
+  \********************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("// extracted by mini-css-extract-plugin\nmodule.exports = {\"shape\":\"home_shape__hPvH_\"};\n    if(true) {\n      // 1711673670871\n      var cssReload = __webpack_require__(/*! ./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js */ \"(app-pages-browser)/./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"/_next/\",\"esModule\":false,\"locals\":true});\n      module.hot.dispose(cssReload);\n      \n    }\n  \nmodule.exports.__checksum = \"68c07458fe14\"\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL2FwcC91aS9ob21lLm1vZHVsZS5jc3MiLCJtYXBwaW5ncyI6IkFBQUE7QUFDQSxrQkFBa0I7QUFDbEIsT0FBTyxJQUFVO0FBQ2pCO0FBQ0Esc0JBQXNCLG1CQUFPLENBQUMsd01BQXFKLGNBQWMsc0RBQXNEO0FBQ3ZQLE1BQU0sVUFBVTtBQUNoQjtBQUNBO0FBQ0E7QUFDQSx5QkFBeUIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vYXBwL3VpL2hvbWUubW9kdWxlLmNzcz9lOWUyIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxubW9kdWxlLmV4cG9ydHMgPSB7XCJzaGFwZVwiOlwiaG9tZV9zaGFwZV9faFB2SF9cIn07XG4gICAgaWYobW9kdWxlLmhvdCkge1xuICAgICAgLy8gMTcxMTY3MzY3MDg3MVxuICAgICAgdmFyIGNzc1JlbG9hZCA9IHJlcXVpcmUoXCIvVXNlcnMvbXVoYW1tYWRiYXFpci9Eb2N1bWVudHMvTmV4dEpTIFByb2plY3RzL25leHRqcy1kYXNoYm9hcmQvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9jb21waWxlZC9taW5pLWNzcy1leHRyYWN0LXBsdWdpbi9obXIvaG90TW9kdWxlUmVwbGFjZW1lbnQuanNcIikobW9kdWxlLmlkLCB7XCJwdWJsaWNQYXRoXCI6XCIvX25leHQvXCIsXCJlc01vZHVsZVwiOmZhbHNlLFwibG9jYWxzXCI6dHJ1ZX0pO1xuICAgICAgbW9kdWxlLmhvdC5kaXNwb3NlKGNzc1JlbG9hZCk7XG4gICAgICBcbiAgICB9XG4gIFxubW9kdWxlLmV4cG9ydHMuX19jaGVja3N1bSA9IFwiNjhjMDc0NThmZTE0XCJcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./app/ui/home.module.css\n"));
+
+/***/ })
+
+});
